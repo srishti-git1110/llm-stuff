@@ -1,2 +1,2 @@
-# llm-decoding
-different decoding strategies
+# llm-stuff
+different llm stuff
